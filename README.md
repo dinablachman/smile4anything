@@ -1,2 +1,2 @@
 # smile4anything
- real website repo
+ my website/blog! coding is fun
